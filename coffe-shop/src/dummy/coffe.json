@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Espresso Italiano",
+    "image": "https://i.pinimg.com/1200x/32/ab/b7/32abb761913580a53605f61545590369.jpg",
+    "price": 32000,
+    "description": "A classic Italian espresso with a rich aroma and bold flavor, perfect for a quick energy boost."
+  },
+  {
+    "id": 2,
+    "title": "Cappuccino",
+    "image": "https://i.pinimg.com/736x/f8/56/1e/f8561ea80e14bd1989b4fe87736e1468.jpg",
+    "price": 35000,
+    "description": "A smooth blend of espresso, steamed milk, and milk foam, delivering a perfect balance of flavor and texture."
+  },
+  {
+    "id": 3,
+    "title": "Latte Macchiato",
+    "image": "https://i.pinimg.com/1200x/18/3c/e0/183ce0f6c468931b8a24cafb067a1be7.jpg",
+    "price": 37000,
+    "description": "A layered espresso-based drink with silky steamed milk and light foam, ideal for a creamy coffee experience."
+  },
+  {
+    "id": 4,
+    "title": "Mocha",
+    "image": "https://i.pinimg.com/1200x/b1/8d/50/b18d50fa62686644792732a3f609275f.jpg",
+    "price": 39000,
+    "description": "A delightful fusion of espresso, chocolate, and milk, topped with whipped cream for a sweet indulgence."
+  },
+  {
+    "id": 5,
+    "title": "Cold Brew",
+    "image": "https://i.pinimg.com/1200x/a0/8b/61/a08b618b6bbe45c5f3ae62ffdaff1d7d.jpg",
+    "price": 33000,
+    "description": "Brewed slowly in cold water for 12 hours, this refreshing drink offers smooth, low-acid coffee with a natural sweetness."
+  }
+]
